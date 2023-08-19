@@ -14,7 +14,7 @@ from matplotlib import rcParams
 rcParams['font.family'] = 'sans-serif'
 rcParams['font.sans-serif'] = ['Segoe UI']
 #Inputfile wtih time, energy, HBs, strand length and x, y, z co-ords for 2 the two traps, i.e. Zf[4:7], Zf[7:10] 
-folder = '/home/arventh/Documents/Data/2023_Hairpin/43nm/3-0_force_rep3' #raw_input directory
+folder = '/home/Data/....' #raw_input directory
 txt = '3-0-1_out_Observables_1.dat'
 os.chdir(folder)
 data = open(txt, 'r')
