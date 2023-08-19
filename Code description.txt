@@ -1,0 +1,1 @@
+All the python files have the same algorithm and almost identical code. Each python code can be used to directly analyze the respective oxDNA files to obtian the output in the manuscript
